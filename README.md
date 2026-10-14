@@ -36,6 +36,9 @@ Requiere JDK 8 o superior. No utiliza librerías externas.
 - Los impuestos se ingresan manualmente, no se calculan automáticamente.
 - Se permite crear otra orden para la misma mesa y cantidad de comensales mientras siga seleccionado ese cliente.
 - No se incluye base de datos.
+<img width="1045" height="680" alt="image" src="https://github.com/user-attachments/assets/663435da-5dc5-4d73-b15a-e6340422ba60" />
+<img width="1040" height="681" alt="image" src="https://github.com/user-attachments/assets/5a456351-9340-4a7c-8e91-31ecf742b84f" />
+
 
 
 
