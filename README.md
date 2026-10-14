@@ -37,8 +37,8 @@ Requiere JDK 8 o superior. No utiliza librerías externas.
 - Se permite crear otra orden para la misma mesa y cantidad de comensales mientras siga seleccionado ese cliente.
 - No se incluye base de datos.
 
-## Capturas de pantalla
-Agrega aquí las capturas de la interfaz y el proceso de pago cuando ejecutes el programa.
+
 
 ## Autores
-Completar con los nombres de los integrantes.
+MANGER RAMIREZ 1152732
+EMMANUEL ROPERO 1152460
